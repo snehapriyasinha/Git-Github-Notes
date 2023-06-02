@@ -1,0 +1,2 @@
+This file is Notes 8 in MergeThroughGUI branch.
+In this branch we have also added a readme.
