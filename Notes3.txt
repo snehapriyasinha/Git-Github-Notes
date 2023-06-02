@@ -1,1 +1,2 @@
 This is file 3.
+I am changing this file to learn the implementation of multiple branches and merging branches.
